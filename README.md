@@ -2,8 +2,6 @@
 
 This repository explores the concept and practical application of **Interfaces** in C#, focusing on achieving **loose coupling** through dependency inversion. The core example simulates a robust, extensible payment processing system.
 
-ملاحظة: المحتوى مكتوب بالإنجليزية. أقدر أترجمه لك للعربية إن رغبت — فقط قل لي.
-
 ## 📝 Table of Contents
 
 1.  [Introduction: What is an Interface?](#1-introduction-what-is-an-interface)
